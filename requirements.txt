@@ -1,0 +1,5 @@
+# Add workshop dependencies here during the session
+# Common AI chatbot libraries:
+# openai
+# langchain
+# transformers
